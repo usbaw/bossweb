@@ -1,0 +1,181 @@
+#banner {
+  width:100%;
+  height:100vh;
+  background-image:url("../../assets/img/banner2.png");
+  background-position:center;
+  background-size:cover;
+  background-repeat:no-repeat;
+  color:#333;
+}
+
+.container {
+  margin-top:8%;
+}
+
+.card:hover {
+  -webkit-box-shadow:-1px 9px 40px -12px rgba(0,0,0,0.75);
+  -moz-box-shadow:-1px 9px 40px -12px rgba(0,0,0,0.75);
+  box-shadow:-1px 9px 40px -12px rgba(0, 0, 0, 0.75);
+}
+
+@media (min-width: 1200px) {
+  #banner {
+    background-image:url("../../assets/img/banner2.png");
+    width:100%;
+  }
+}
+
+#navcol-1 {
+  font-size:13px;
+  font-family:Montserrat, sans-serif;
+  font-weight:600;
+  text-transform:uppercase;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color:rgb(34,34,34);
+}
+
+#title {
+  font-family:Montserrat, sans-serif;
+  font-weight:300;
+  font-size:32px;
+  margin-top:70px;
+}
+
+#subtitle {
+  font-size:42px;
+  font-family:Montserrat, sans-serif;
+  font-weight:bold;
+}
+
+#banner-bottom {
+  color:#fff;
+  width:100%;
+  margin-top:-100px;
+}
+
+#p-top {
+  font-family:Montserrat, sans-serif;
+  font-size:28px;
+  font-weight:bold;
+  margin-bottom:0px;
+}
+
+.join-button {
+  background-color:rgba(0,98,204,0);
+  border:3px solid #fff;
+  border-radius:30px;
+}
+
+.arrow-button {
+  color:white;
+}
+
+.container.summary {
+  text-align:center;
+  width:55%;
+}
+
+.col.white-border {
+  border:1px solid rgba(255,255,255,0.36);
+  border-top:0;
+  border-bottom:0;
+}
+
+#video {
+  text-align:center;
+  width:100%;
+  height:500px;
+}
+
+#video iframe {
+  width:90%;
+  height:400px;
+}
+
+@media (min-width: 992px) {
+  #video iframe {
+    width:1025px;
+    height:500px;
+  }
+}
+
+#events {
+  width:100%;
+  height:100vh;
+}
+
+#event-text {
+  font-family:Montserrat, sans-serif;
+  font-size:32px;
+  color:rgb(244,244,244);
+}
+
+#evet-text {
+  color:white;
+}
+
+#event-subtitle {
+  color:white;
+}
+
+#event2-title {
+  color:white;
+  margin-bottom:-18px;
+  margin-top:10px;
+}
+
+#event3-title {
+  color:white;
+  font-family:'Montserrat';
+  margin-bottom:-12px;
+}
+
+#event4-title {
+  color:white;
+  margin-bottom:-12px;
+}
+
+#event-description1 {
+  color:white;
+  margin-bottom:10px;
+}
+
+#event-description2 {
+  color:white;
+  margin-bottom:10px;
+}
+
+#event-description3 {
+  color:white;
+  margin-bottom:10px;
+}
+
+.fa.fa-arrow-circle-right {
+  color:rgb(255,245,0);
+}
+
+#e-title {
+}
+
+#e-subtitle {
+}
+
+#rows-logo {
+  height:150px;
+}
+
+#row-for-logo {
+  text-align:center;
+}
+
+#row-for-logo img {
+  width:200px;
+  height:170px;
+}
+
+#promotional-logo {
+  height:340px;
+}
+
