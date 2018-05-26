@@ -80,7 +80,7 @@ $(window).scroll(function(){
          <?php include 'nav.php';?>
         <div id="b-id">
             <h1 class="text-center" data-aos="fade-up" data-aos-duration="950" data-aos-once="true" id="title" style="color:rgb(255,255,255);">Boss Cars</h1>
-            <h2 class="text-center" data-aos="fade-up" data-aos-duration="950" data-aos-delay="350" data-aos-once="true" id="subtitle" style="color:rgb(255,255,255);"><strong>Built On Self Success</strong><br></h2>
+            <h2 class="text-center" data-aos="fade-up" data-aos-duration="950" data-aos-delay="350" data-aos-once="true" id="subtitle" style="color:rgb(255,255,255);"><strong>Built</strong><br></h2>
         </div>
         <div id="banner-bottom" style="width:100%;">
             <div class="container summary">
