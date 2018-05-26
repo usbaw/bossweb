@@ -170,7 +170,7 @@ $(window).scroll(function(){
                     <h3><a href="#">Boss&nbsp;<span>Carss</span></a></h3>
                     <p class="links"><a href="#">Home</a><strong> · </strong><a href="#">Boss Events</a><strong> · </strong><a href="#">Newsfeed</a><strong> · </strong><a href="#">Shop</a><strong> · </strong><a href="#">Admin</a><strong> · </strong><a href="#">Video Gallery</a></p>
                     <p
-                        class="company-name">Company Bosscars © 2018</p>
+                        class="company-name">Company Bossca © 2018</p>
                 </div>
                 <div class="col-sm-6 col-md-4 footer-contacts" data-aos="fade-up" data-aos-duration="700" data-aos-delay="200">
                     <div><span class="fa fa-map-marker footer-contacts-icon"> </span>
